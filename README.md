@@ -215,6 +215,8 @@ Le modèle retenu est le **Random Forest optimisé par GridSearchCV**. Il obtien
 ## 9. Auteurs
 
 Groupe RSD10 :
+rsd 10 
+rsd 12
+siad 21
+siad 23
 
-- [Prénom Nom] : analyse exploratoire, prétraitement et application
-- [Prénom Nom] : modélisation, évaluation et optimisation
