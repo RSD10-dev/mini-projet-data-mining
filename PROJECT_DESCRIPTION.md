@@ -68,6 +68,8 @@ Python, pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Jupyter Noteboo
 **Perspectives.** Séparer les données par `Customer_ID`, tester des modèles de boosting (XGBoost, LightGBM, CatBoost), rééquilibrer les classes (SMOTE) et approfondir la sélection de variables.
 
 ## 10. Équipe
+rsd10
+rsd12
+siad21
+siad23
 
-- [Prénom Nom] : analyse exploratoire, prétraitement et application
-- [Prénom Nom] : modélisation, évaluation et optimisation
