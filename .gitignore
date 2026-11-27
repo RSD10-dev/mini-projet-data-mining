@@ -1,14 +1,27 @@
+# Environnement Python local
+.venv/
+.env
+.env.*
+!.env.example
+
+# Caches Python et Jupyter
 __pycache__/
 *.pyc
-
-.venv/
-venv/
-env/
-
+.pytest_cache/
 .ipynb_checkpoints/
-.vscode/
 
-.env
+# Archives et fichiers temporaires
+*.zip
+/artifacts/*.tmp
+.experiment-workspace
 
-*.joblib
-*.pkl
+# Données locales
+/data/raw/*
+!/data/raw/README.md
+/data/processed/train_clean.csv
+/data/processed/panel*.csv
+/data/processed/panel*.csv.gz
+/results/test_predictions.csv.gz
+
+# Modèles entraînés conservés localement
+/models/*.joblib
